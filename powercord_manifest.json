@@ -1,0 +1,8 @@
+{
+    "name": "Simple Ui",
+    "description": "A Beautiful theme for betterdiscord, powercord and aliucord",
+    "version": "1.0.0",
+    "license": "MIT",
+    "theme": "simpleui.theme.css",
+    "author": "Frazix"
+}
